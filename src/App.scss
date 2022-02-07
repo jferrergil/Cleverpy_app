@@ -1,0 +1,9 @@
+$light: #ffffff;
+$gray: #c4ccde;
+
+.App {
+  min-height: 100ch;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
